@@ -1,0 +1,103 @@
+.ma{
+
+    border: 0px solid red;
+    display: flex;
+    flex-wrap: wrap;
+ 
+    
+
+}
+
+h1{
+
+    border: 2px solid black;
+}
+
+
+.input{
+
+    border: 1px solid rgb(141, 143, 141);
+    display: inline-block;
+    margin-left: 60px;
+    margin-top: 40px;
+    height: 350px;
+    width: 350px;
+    text-align: center;
+    padding: 10px;
+    
+}
+h1{
+    text-align: center;
+    border: 0px;
+}
+
+.nm{
+
+    border: 0px solid black;
+
+}
+
+.nm input{
+
+    padding: 10px 1px;
+    width: 300px;
+    outline: none;
+    
+}
+
+.nm button{
+
+    width: 310px;
+    height: 40px;
+    background-color: rgb(84, 177, 235);
+    border: none;
+    border-radius: 5px;
+    color: aliceblue;
+   
+}
+
+.link{
+
+    border: 0px solid black;
+    margin-left: 20px;
+}
+
+.si{
+
+    border: 1px solid rgb(112, 107, 107);
+    display: inline-block;
+    padding: 10px 84px;
+    margin-left: 60px;
+
+
+    
+}
+
+.footer-img{
+
+ margin-left: 100px;
+        
+}
+#gp{
+    height: 50px;
+}
+#mc{
+    height: 35px;
+    border-radius: 5px;
+    margin-bottom: 7px;
+}
+.o{
+    margin-left: 10px;
+}
+.n{
+    margin-left: 190px;
+}
+.img{
+    margin-left: 350px;
+    
+}
+.a{
+    height: 550px;
+    margin-top: 20px;
+}
+
